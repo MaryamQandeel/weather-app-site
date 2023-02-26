@@ -47,7 +47,7 @@ body {
 }
 
 #temp.active {
-    background-image: url('/temp.png');
+    background-image: url(temp.png);
     background-size: 20%;
     background-position: 100px;
     height: 90px;
